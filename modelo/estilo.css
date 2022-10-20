@@ -1,0 +1,38 @@
+
+h1 {
+    color: rgb(230, 38, 38);
+    
+}
+
+
+body{
+    
+    background-image: url(ceva.png);
+    font: normal 15pt arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.281);
+}
+
+.lista {
+    margin: auto;
+    align-items: center;
+    color: black;
+    }
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
